@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gruppe-17/static/css/main.9349c249.css",
+    "main.js": "/gruppe-17/static/js/main.c02c17c9.js",
+    "static/media/amazonessvillage-tf05-jp-vg.png": "/gruppe-17/static/media/amazonessvillage-tf05-jp-vg.3d767600cc91b684206e.png",
+    "static/media/Amazoness1.jpg": "/gruppe-17/static/media/Amazoness1.81e0ebec67630cbca165.jpg",
+    "static/media/Avatar.jpg": "/gruppe-17/static/media/Avatar.8acf63113c7436abfcc1.jpg",
+    "static/media/Avatar2.jpg": "/gruppe-17/static/media/Avatar2.fa1b03860dc92a9c52dc.jpg",
+    "static/media/Amazoness2.jpg": "/gruppe-17/static/media/Amazoness2.07883cc1973da495ea09.jpg",
+    "index.html": "/gruppe-17/index.html",
+    "main.9349c249.css.map": "/gruppe-17/static/css/main.9349c249.css.map",
+    "main.c02c17c9.js.map": "/gruppe-17/static/js/main.c02c17c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9349c249.css",
+    "static/js/main.c02c17c9.js"
+  ]
+}
